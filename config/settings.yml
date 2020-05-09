@@ -1,0 +1,6 @@
+session:
+  url: redis://localhost:6379
+  timeout: 7200
+position:
+  user: user
+  admin: admin
